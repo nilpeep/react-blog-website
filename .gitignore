@@ -5,10 +5,7 @@
 /.pnp
 .pnp.js
 
-/src
-/components
-.js
-.jsx #! HERE THEY ARE
+
 
 
 # testing
