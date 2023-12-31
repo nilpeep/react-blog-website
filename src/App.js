@@ -9,6 +9,10 @@ import {
 import Switch from "react-switch";
 import PageRenderer from "./page-renderer";
 
+// test
+
+const test = "test1";
+
 function App() {
   return (
     <Router>
